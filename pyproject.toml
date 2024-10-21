@@ -1,0 +1,11 @@
+[project]
+name = "neural-network"
+version = "0.1.0"
+description = "A simple 3-layer feedforward neural network in Python I made for school"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "numpy>=2.1.2",
+    "pillow>=11.0.0",
+]
